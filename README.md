@@ -2,7 +2,8 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
-- In Progress!
+- Home Cybersecurity Lab - Details Coming Soon
+- More On The Way!
 
 <h2>🪪 Certifications</h2>
 
