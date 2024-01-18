@@ -9,7 +9,7 @@
 
 ![image](https://github.com/jacole2615/jacole2615/assets/140465305/ca7a871c-c290-4ded-a809-d63d800fc6d7)
 - <a href="https://www.credly.com/badges/97af6af1-b770-442a-ac81-489335cdb9b9/public_url">CompTIA Security+</a>
-- FEMA National Incident Management System (NIMS): ICS-100 (Expected 02/11/24)
+- FEMA National Incident Management System (NIMS): ICS-100
 - CompTIA Network+ (Expected 05/01/24)
 
           
