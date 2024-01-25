@@ -3,6 +3,7 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 
 - Home Cybersecurity Lab - Details Coming Soon
+- Python
 - More On The Way!
 
 <h2>🪪 Certifications</h2>
