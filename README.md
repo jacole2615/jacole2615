@@ -4,6 +4,7 @@
 
 - Home Cybersecurity Lab - Details Coming Soon
 - Python
+- Wayne Williams Serial Murder Geographic Profiling Project
 - More On The Way!
 
 <h2>🪪 Certifications</h2>
