@@ -4,7 +4,7 @@
 
 - Home Cybersecurity Lab - Details Coming Soon
 - Python
-- Wayne Williams Serial Murder Geographic Profiling Project
+- <a href="https://github.com/jacole2615/Wayne-Williams-Geographic-Profile">Geographic Profiling - Atlanta Child Murders</a>
 - More On The Way!
 
 <h2>🪪 Certifications</h2>
