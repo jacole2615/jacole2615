@@ -2,6 +2,8 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
+<script src="https://tryhackme.com/badge/2654279"></script>
+
 - Home Cybersecurity Lab - Details Coming Soon
 - Python
 - <a href="https://github.com/jacole2615/Wayne-Williams-Geographic-Profile">Geographic Profiling - Atlanta Child Murders</a>
