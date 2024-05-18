@@ -2,7 +2,7 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
-<script src="https://tryhackme.com/badge/2654279"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/cyberseclab2024.png" alt="TryHackMe">
 
 - Home Cybersecurity Lab - Details Coming Soon
 - Python
